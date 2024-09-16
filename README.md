@@ -1,7 +1,7 @@
 
 # Unity Waveform Video Maker
 
-Create waveform videos directly in Unity. 
+Create waveform videos directly in Unity.
 
 ## Setup
 
@@ -16,6 +16,7 @@ This tool requires the following Unity/packages assets to function correctly:
 ```
 com.unity.recorder
 ```
+4. Add WaveFormVideoMaker folder to your project.
 
 ## Features
 
