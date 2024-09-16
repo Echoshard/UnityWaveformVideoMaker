@@ -40,7 +40,7 @@ Unity will enter play mode and start recording. The recording duration will matc
 
 ### Notes
 
-- Depending on your screen's resolution things may be cropped incorrectly so click Start Recording and you will get a play window template
+- Depending on your screen's resolution things may be cropped incorrectly so click **Start Recording** and you will get a play window preset
 
 ![image](https://github.com/user-attachments/assets/e18ce62f-b811-403e-9e09-dc5558ab50f6)
 
