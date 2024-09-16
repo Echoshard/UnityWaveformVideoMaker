@@ -26,7 +26,7 @@ com.unity.recorder
 
 1. Open the one of the provided recording scenes. 
 2. Select the **WaveFormVideoMaker** GameObject.
-<img src="[your-image-url.jpg](https://github.com/user-attachments/assets/397ab4ba-a09b-474b-ae14-db3efa3affc2)" alt="description" style="float: left; width: 50%;" />
+[<img src="[your-image-url.jpg]()" alt="description" style="float: left; width: 50%;" />](https://github.com/user-attachments/assets/397ab4ba-a09b-474b-ae14-db3efa3affc2)
 
 3. Apply your audio and additional videos
 4. Press Play to watch it 
