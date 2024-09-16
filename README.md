@@ -42,7 +42,7 @@ Unity will enter play mode and start recording. The recording duration will matc
 
 - Depending on your screen's resolution things may be cropped incorrectly so click **Start Recording** and you will get a play window preset
 
-<img src="https://github.com/user-attachments/assets/e18ce62f-b811-403e-9e09-dc5558ab50f6" width="50%">
+<img src="https://github.com/user-attachments/assets/e18ce62f-b811-403e-9e09-dc5558ab50f6" width="20%">
 
 - If you cancel while recording, Unity may become unresponsive to audio playback. To resolve this, restarting Unity.
 
