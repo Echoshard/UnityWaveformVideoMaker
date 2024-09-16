@@ -24,14 +24,14 @@ com.unity.recorder
 
 ## Running
 
-1. Open the One of the provided recording scenes.
+1. Open the one of the provided recording scenes. 
 2. Select the **WaveFormVideoMaker** GameObject.
 3. Apply your audio and additional videos
 4. Click the **Start Recording** on  button.
 
 Unity will enter play mode and start recording. The recording duration will match the length of the audio. The remaining recording time is displayed on the **WaveFormVideoMaker** component.
 
-5. The video will be saved in your project folder you can access this quickly clicking ***Open Recording Folder**
+5. The video will be saved in your project folder you can access this quickly clicking **Open Recording Folder button**
 
 
 ### Notes
