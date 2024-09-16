@@ -11,7 +11,7 @@ This tool requires the following Unity/packages assets to function correctly:
    [Asset Store Link](https://assetstore.unity.com/packages/tools/utilities/naughtyattributes-129996)
 
 2. **SimpleSpectrum**
-   [Website](https://samboyer.uk/) | [Asset Store Link](https://assetstore.unity.com/packages/tools/audio/simplespectrum-free-audio-spectrum-generator-webgl-85294)
+   [Asset Store Link](https://assetstore.unity.com/packages/tools/audio/simplespectrum-free-audio-spectrum-generator-webgl-85294)
 3. **Unity Recorder** install via Unity package manager
 ```
 com.unity.recorder
