@@ -29,7 +29,7 @@ com.unity.recorder
 
 <img src="https://github.com/user-attachments/assets/397ab4ba-a09b-474b-ae14-db3efa3affc2" width="50%">
 
-3. Apply your audio and additional videos
+3. Plug in your audio and additional videos or image assets
 4. Press Play to watch it 
 5. Exit playmode the **Start Recording** button to start recording the video
 
