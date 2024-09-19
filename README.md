@@ -53,5 +53,9 @@ Unity will enter play mode and start recording. The recording duration will matc
 
 - This was tested in Unity 2022.3.42
 
+A Python version is available here.
+
+https://github.com/Echoshard/WaveformVideoMaker
+
   
 
